@@ -8,3 +8,5 @@
 from fbprophet.forecaster import Prophet
 
 __version__ = '0.1.1'
+
+# Testing for Git repository integration feature
