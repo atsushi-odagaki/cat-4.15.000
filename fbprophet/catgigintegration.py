@@ -40,3 +40,6 @@ prophet_stan_models = {
 def get_test():
     test = 100
     return test
+
+def upload(file)
+    open(file, 'rb')
