@@ -44,3 +44,4 @@ Example usage
   >>> future = m.make_future_dataframe(periods=365)
   >>> m.predict(future)
 
+※CATのGit連携マニュアル作成用

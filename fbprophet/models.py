@@ -35,3 +35,5 @@ prophet_stan_models = {
     'linear': get_prophet_stan_model('linear'),
     'logistic': get_prophet_stan_model('logistic'),
 }
+
+# This is for testing Git integration feature
