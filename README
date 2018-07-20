@@ -45,3 +45,4 @@ Example usage
   >>> m.predict(future)
 
 ※CATのGit連携マニュアル作成用
+※GitHubの練習も兼ねる
