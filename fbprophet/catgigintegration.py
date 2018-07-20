@@ -18,6 +18,16 @@ import pkg_resources
 # fb-block 2
 
 
+# This is for testing Git integration feature
+def test():
+    test = 100
+    return test
+
+def test(val):
+    test = val + 100
+    return test
+
+
 def get_prophet_stan_model(model):
     """Load compiled Stan model"""
     # fb-block 3
