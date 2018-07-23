@@ -23,6 +23,7 @@ SETUP_DIR = os.path.dirname(os.path.abspath(__file__))
 MODELS_DIR = os.path.join(SETUP_DIR, 'stan', PLATFORM)
 MODELS_TARGET_DIR = os.path.join('fbprophet', 'stan_models')
 
+# test: MIN-1740
 
 def build_stan_models(target_dir, models_dir=MODELS_DIR):
     from pystan import StanModel
